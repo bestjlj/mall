@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="03-mimall:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/03_mimall_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="03-mimall" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="03-mimall/web/Web" />
+    </root>
+  </artifact>
+</component>
